@@ -1,0 +1,71 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="room" ID="07009024-8092-4415-9331-7a24e12455dd" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="seat/cardtype-bg.png" />
+      <FilePathData Path="seat/name-bg.png" />
+      <FilePathData Path="seat/level-bg.png" />
+      <FilePathData Path="seat/dealer.png" />
+      <FilePathData Path="room/btn-green.png" />
+      <FilePathData Path="room/btn-yellow.png" />
+      <FilePathData Path="room/calculate-bg.png" />
+      <FilePathData Path="room/content-ctype.png" />
+      <FilePathData Path="room/clock-bg.png" />
+      <FilePathData Path="room/clock.png" />
+      <FilePathData Path="room/dialog-bg.png" />
+      <FilePathData Path="room/loser-light.png" />
+      <FilePathData Path="room/loser.png" />
+      <FilePathData Path="room/sys-msg-bg.png" />
+      <FilePathData Path="room/win-light.png" />
+      <FilePathData Path="room/win.png" />
+      <FilePathData Path="menu/back-hall.png" />
+      <FilePathData Path="menu/btn-bx.png" />
+      <FilePathData Path="menu/btn-cardtype.png" />
+      <FilePathData Path="menu/btn-chat.png" />
+      <FilePathData Path="menu/btn-task.png" />
+      <FilePathData Path="menu/change-room.png" />
+      <FilePathData Path="menu/menu.png" />
+      <FilePathData Path="menu/menu-btn-bg.png" />
+      <FilePathData Path="menu/transparent.png" />
+      <FilePathData Path="seat/dealer-light.png" />
+      <FilePathData Path="login/bg.png" />
+      <FilePathData Path="login/green-btn.png" />
+      <FilePathData Path="login/guest.png" />
+      <FilePathData Path="login/qq.png" />
+      <FilePathData Path="login/qs.png" />
+      <FilePathData Path="login/wchat.png" />
+      <FilePathData Path="login/yellow-btn.png" />
+      <FilePathData Path="task/mask.png" />
+      <FilePathData Path="task/pro-item.png" />
+      <FilePathData Path="task/progress-bg.png" />
+      <FilePathData Path="task/progress.png" />
+      <FilePathData Path="top/bg.png" />
+      <FilePathData Path="top/buy.png" />
+      <FilePathData Path="top/email.png" />
+      <FilePathData Path="top/gold-bg.png" />
+      <FilePathData Path="top/seting.png" />
+      <FilePathData Path="roomlist/bg.png" />
+      <FilePathData Path="roomlist/item-bg.png" />
+      <FilePathData Path="roomlist/item-light.png" />
+      <FilePathData Path="roomlist/min-buying-bg.png" />
+      <FilePathData Path="roomlist/quickstart.png" />
+      <FilePathData Path="userinfo/line.png" />
+      <FilePathData Path="userinfo/head-tip.png" />
+      <FilePathData Path="userinfo/paper.png" />
+      <FilePathData Path="userinfo/prop-item-bg.png" />
+      <FilePathData Path="userinfo/text-bg.png" />
+      <FilePathData Path="userinfo/boy.png" />
+      <FilePathData Path="userinfo/girl.png" />
+      <FilePathData Path="userinfo/edit-bg.png" />
+      <FilePathData Path="userinfo/edit.png" />
+      <FilePathData Path="bank/input.png" />
+      <FilePathData Path="bank/line.png" />
+      <FilePathData Path="bank/tab-1.png" />
+      <FilePathData Path="bank/tab-2.png" />
+      <FilePathData Path="bank/tab-bg.png" />
+      <FilePathData Path="bank/title-bg.png" />
+      <FilePathData Path="bank/title.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>
