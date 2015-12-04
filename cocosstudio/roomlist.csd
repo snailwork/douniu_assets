@@ -27,12 +27,12 @@
             <ColorVector ScaleX="0.0000" ScaleY="-1.0000" />
           </NodeObjectData>
           <NodeObjectData Name="bg_left" ActionTag="765089760" FrameEvent="" Tag="161" ObjectIndex="7" Scale9Enable="True" TopEage="200" BottomEage="93" Scale9OriginY="200" Scale9Width="479" Scale9Height="1" ctype="ImageViewObjectData">
-            <Position X="388.0000" Y="303.0000" />
+            <Position X="389.0000" Y="303.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <CColor A="255" R="255" G="255" B="255" />
             <Size X="479.0000" Y="590.0000" />
-            <PrePosition X="0.3031" Y="0.4208" />
+            <PrePosition X="0.3039" Y="0.4208" />
             <PreSize X="0.6922" Y="1.1919" />
             <FileData Type="MarkedSubImage" Path="roomlist/bg.png" Plist="room.plist" />
           </NodeObjectData>
@@ -97,7 +97,7 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <Size X="84.0000" Y="110.0000" />
+            <Size X="84.0000" Y="43.0000" />
             <PrePosition X="0.4891" Y="0.7035" />
             <PreSize X="0.0000" Y="0.0000" />
             <LabelBMFontFile_CNB Type="Normal" Path="fonts/num-yellow.fnt" />
@@ -160,12 +160,12 @@
                     <PreSize X="0.0000" Y="0.0000" />
                   </NodeObjectData>
                   <NodeObjectData Name="title_Copy" ActionTag="-339639773" FrameEvent="" Tag="2" ObjectIndex="4" LabelText="500万" ctype="TextBMFontObjectData">
-                    <Position X="116.0000" Y="74.5000" />
+                    <Position X="116.0000" Y="106.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <AnchorPoint ScaleY="0.5000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <Size X="136.0000" Y="110.0000" />
-                    <PrePosition X="0.3986" Y="0.3725" />
+                    <Size X="136.0000" Y="43.0000" />
+                    <PrePosition X="0.3986" Y="0.5325" />
                     <PreSize X="0.0000" Y="0.0000" />
                     <LabelBMFontFile_CNB Type="Normal" Path="fonts/num-yellow.fnt" />
                   </NodeObjectData>
@@ -230,12 +230,12 @@
                     <PreSize X="0.0000" Y="0.0000" />
                   </NodeObjectData>
                   <NodeObjectData Name="title_Copy_Copy" ActionTag="50531959" FrameEvent="" Tag="2" ObjectIndex="6" LabelText="500万" ctype="TextBMFontObjectData">
-                    <Position X="116.0000" Y="74.5000" />
+                    <Position X="116.0000" Y="106.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <AnchorPoint ScaleY="0.5000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <Size X="136.0000" Y="110.0000" />
-                    <PrePosition X="0.0000" Y="0.0000" />
+                    <Size X="136.0000" Y="43.0000" />
+                    <PrePosition X="0.3973" Y="0.5325" />
                     <PreSize X="0.0000" Y="0.0000" />
                     <LabelBMFontFile_CNB Type="Normal" Path="fonts/num-yellow.fnt" />
                   </NodeObjectData>

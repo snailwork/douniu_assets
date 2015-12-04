@@ -137,15 +137,6 @@
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </NodeObjectData>
-          <NodeObjectData Name="Text_otherWay" ActionTag="417260860" FrameEvent="" Tag="105" ObjectIndex="1" FontSize="22" LabelText="其他登陆：" ctype="TextObjectData">
-            <Position X="647.0000" Y="144.5000" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <CColor A="255" R="98" G="156" B="87" />
-            <Size X="110.0000" Y="26.0000" />
-            <PrePosition X="0.5055" Y="0.2007" />
-            <PreSize X="0.0000" Y="0.0000" />
-          </NodeObjectData>
         </Children>
       </ObjectData>
     </Content>

@@ -59,6 +59,18 @@
       <FilePathData Path="common/light.png" />
       <FilePathData Path="common/second-bg.png" />
       <FilePathData Path="gold/border1.png" />
+      <FilePathData Path="loading/01.png" />
+      <FilePathData Path="loading/02.png" />
+      <FilePathData Path="loading/03.png" />
+      <FilePathData Path="loading/04.png" />
+      <FilePathData Path="loading/05.png" />
+      <FilePathData Path="loading/06.png" />
+      <FilePathData Path="loading/07.png" />
+      <FilePathData Path="loading/08.png" />
+      <FilePathData Path="loading/09.png" />
+      <FilePathData Path="loading/10.png" />
+      <FilePathData Path="loading/11.png" />
+      <FilePathData Path="loading/12.png" />
     </ImageFiles>
     <MaxSize Width="1024" Height="1024" />
   </Content>

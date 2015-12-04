@@ -127,6 +127,7 @@
           <Image Name="pro-item.png" />
           <Image Name="progress-bg.png" />
           <Image Name="progress.png" />
+          <Image Name="title.png" />
         </Folder>
         <Folder Name="top">
           <Image Name="bg.png" />
@@ -169,6 +170,80 @@
         </Folder>
         <Project Name="bank.csd" />
         <Project Name="ranking.csd" />
+        <Folder Name="rank">
+          <Image Name="address.png" />
+          <Image Name="title.png" />
+          <Image Name="item-bg.png" />
+          <Image Name="bg_me.png" />
+          <Image Name="mask.png" />
+          <Image Name="mask_me.png" />
+        </Folder>
+        <Project Name="task.csd" />
+        <Project Name="store.csd" />
+        <Folder Name="store">
+          <Image Name="line.png" />
+          <Image Name="title-bg.png" />
+          <Image Name="title.png" />
+          <Image Name="item-bg.png" />
+          <Image Name="gold1.png" />
+          <Image Name="gold2.png" />
+          <Image Name="gold3.png" />
+          <Image Name="gold4.png" />
+          <Image Name="gold5.png" />
+          <Image Name="gold6.png" />
+        </Folder>
+        <Image Name="store-bg.jpg" />
+        <Folder Name="pay">
+          <Image Name="apple.png" />
+          <Image Name="background.png" />
+          <Image Name="btn-back.png" />
+          <Image Name="btn-other-selection.png" />
+          <Image Name="btn-pay.png" />
+          <Image Name="btn-selected-bg.png" />
+          <Image Name="btn-selected-color.png" />
+          <Image Name="btn-selected-symbol.png" />
+          <Image Name="btn-weixin.png" />
+          <Image Name="btn-zhifubao.png" />
+          <Image Name="line-horizontal.png" />
+          <Image Name="line-vertical.png" />
+          <Image Name="up-bg.png" />
+        </Folder>
+        <Project Name="pay.csd" />
+        <Project Name="taskAni.csd" />
+        <Folder Name="loading">
+          <Image Name="01.png" />
+          <Image Name="02.png" />
+          <Image Name="03.png" />
+          <Image Name="04.png" />
+          <Image Name="05.png" />
+          <Image Name="06.png" />
+          <Image Name="07.png" />
+          <Image Name="08.png" />
+          <Image Name="09.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+        </Folder>
+        <Folder Name="hall">
+          <Image Name="activity.png" />
+          <Image Name="bank.png" />
+          <Image Name="menu-bg.png" />
+          <Image Name="more.png" />
+          <Image Name="online-bg.png" />
+          <Image Name="ranking.png" />
+          <Image Name="shop.png" />
+          <Image Name="tab1.png" />
+          <Image Name="tab2.png" />
+          <Image Name="tab3.png" />
+          <Image Name="point.png" />
+        </Folder>
+        <Project Name="setting.csd" />
+        <Project Name="email.csd" />
+        <Folder Name="seting">
+          <Image Name="arrow.png" />
+          <Image Name="close.png" />
+          <Image Name="open.png" />
+        </Folder>
       </RootFolder>
     </Group>
   </SolutionFolder>

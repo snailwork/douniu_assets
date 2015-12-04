@@ -65,6 +65,46 @@
       <FilePathData Path="bank/tab-bg.png" />
       <FilePathData Path="bank/title-bg.png" />
       <FilePathData Path="bank/title.png" />
+      <FilePathData Path="task/title.png" />
+      <FilePathData Path="store/line.png" />
+      <FilePathData Path="store/title-bg.png" />
+      <FilePathData Path="store/title.png" />
+      <FilePathData Path="store/item-bg.png" />
+      <FilePathData Path="rank/address.png" />
+      <FilePathData Path="rank/title.png" />
+      <FilePathData Path="rank/item-bg.png" />
+      <FilePathData Path="pay/apple.png" />
+      <FilePathData Path="pay/background.png" />
+      <FilePathData Path="pay/btn-back.png" />
+      <FilePathData Path="pay/btn-other-selection.png" />
+      <FilePathData Path="pay/btn-pay.png" />
+      <FilePathData Path="pay/btn-selected-bg.png" />
+      <FilePathData Path="pay/btn-selected-color.png" />
+      <FilePathData Path="pay/btn-selected-symbol.png" />
+      <FilePathData Path="pay/btn-weixin.png" />
+      <FilePathData Path="pay/btn-zhifubao.png" />
+      <FilePathData Path="pay/line-horizontal.png" />
+      <FilePathData Path="pay/line-vertical.png" />
+      <FilePathData Path="pay/up-bg.png" />
+      <FilePathData Path="rank/bg_me.png" />
+      <FilePathData Path="rank/mask.png" />
+      <FilePathData Path="rank/mask_me.png" />
+      <FilePathData Path="hall/activity.png" />
+      <FilePathData Path="hall/bank.png" />
+      <FilePathData Path="hall/menu-bg.png" />
+      <FilePathData Path="hall/more.png" />
+      <FilePathData Path="hall/online-bg.png" />
+      <FilePathData Path="hall/ranking.png" />
+      <FilePathData Path="hall/shop.png" />
+      <FilePathData Path="hall/tab1.png" />
+      <FilePathData Path="hall/tab2.png" />
+      <FilePathData Path="hall/tab3.png" />
+      <FilePathData Path="store/gold1.png" />
+      <FilePathData Path="store/gold2.png" />
+      <FilePathData Path="store/gold3.png" />
+      <FilePathData Path="store/gold4.png" />
+      <FilePathData Path="store/gold5.png" />
+      <FilePathData Path="store/gold6.png" />
     </ImageFiles>
     <MaxSize Width="2048" Height="2048" />
   </Content>

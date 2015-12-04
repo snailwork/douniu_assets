@@ -123,6 +123,27 @@
                 <Size X="150.0000" Y="120.0000" />
                 <PrePosition X="0.2700" Y="0.8333" />
                 <PreSize X="0.1861" Y="0.2532" />
+                <Children>
+                  <NodeObjectData Name="Image_273" ActionTag="760308375" FrameEvent="" Tag="441" ObjectIndex="273" Scale9Width="103" Scale9Height="34" ctype="ImageViewObjectData">
+                    <Position X="71.0000" Y="23.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.4563" ScaleY="0.6324" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="103.0000" Y="34.0000" />
+                    <PrePosition X="0.4733" Y="0.1917" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <FileData Type="MarkedSubImage" Path="userinfo/head-tip.png" Plist="room.plist" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Text_139" ActionTag="386749540" FrameEvent="" Tag="442" ObjectIndex="139" FontSize="18" LabelText="修改头像" ctype="TextObjectData">
+                    <Position X="74.0000" Y="23.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="242" G="227" B="255" />
+                    <Size X="72.0000" Y="21.0000" />
+                    <PrePosition X="0.4933" Y="0.1917" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                  </NodeObjectData>
+                </Children>
                 <TextColor A="255" R="65" G="65" B="70" />
                 <DisabledFileData Type="MarkedSubImage" Path="menu/transparent.png" Plist="room.plist" />
                 <PressedFileData Type="MarkedSubImage" Path="menu/transparent.png" Plist="room.plist" />
@@ -189,7 +210,7 @@
                 <Position X="321.0000" Y="353.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <CColor A="255" R="206" G="82" B="28" />
+                <CColor A="255" R="115" G="89" B="54" />
                 <Size X="85.0000" Y="31.0000" />
                 <PrePosition X="0.3983" Y="0.7447" />
                 <PreSize X="0.0000" Y="0.0000" />
@@ -238,7 +259,7 @@
                 <Position X="321.0000" Y="404.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <CColor A="255" R="206" G="82" B="28" />
+                <CColor A="255" R="115" G="89" B="54" />
                 <Size X="85.0000" Y="31.0000" />
                 <PrePosition X="0.3983" Y="0.8523" />
                 <PreSize X="0.0000" Y="0.0000" />

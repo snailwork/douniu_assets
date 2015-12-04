@@ -80,7 +80,7 @@
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <Size X="1.0000" Y="110.0000" />
+            <Size X="211.0000" Y="43.0000" />
             <PrePosition X="0.5141" Y="0.8486" />
             <PreSize X="0.0000" Y="0.0000" />
             <LabelBMFontFile_CNB Type="Normal" Path="fonts/num-yellow.fnt" />
@@ -151,7 +151,7 @@
             <PressedFileData Type="MarkedSubImage" Path="common/close.png" Plist="common.plist" />
             <NormalFileData Type="MarkedSubImage" Path="common/close.png" Plist="common.plist" />
           </NodeObjectData>
-          <NodeObjectData Name="Text_58_Copy_0" ActionTag="-324558489" FrameEvent="" Tag="236" ObjectIndex="78" FontSize="28" LabelText="输入密码：" ctype="TextObjectData">
+          <NodeObjectData Name="Text_58_Copy_0" ActionTag="-324558489" FrameEvent="" Tag="236" ObjectIndex="78" FontSize="28" LabelText="确认密码：" ctype="TextObjectData">
             <Position X="403.0000" Y="383.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -179,7 +179,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="MarkedSubImage" Path="bank/input.png" Plist="room.plist" />
           </NodeObjectData>
-          <NodeObjectData Name="Text_58_Copy_1" ActionTag="438016598" FrameEvent="" Tag="239" ObjectIndex="80" FontSize="28" LabelText="输入密码：" ctype="TextObjectData">
+          <NodeObjectData Name="Text_58_Copy_1" ActionTag="438016598" FrameEvent="" Tag="239" ObjectIndex="80" FontSize="28" LabelText="输入邮箱：" ctype="TextObjectData">
             <Position X="403.0000" Y="296.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
