@@ -109,7 +109,7 @@
                 <Size X="28.0000" Y="28.0000" />
                 <PrePosition X="0.8769" Y="0.9091" />
                 <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="Normal" Path="hall/point.png" />
+                <FileData Type="MarkedSubImage" Path="hall/point.png" Plist="room.plist" />
               </NodeObjectData>
             </Children>
             <TextColor A="255" R="65" G="65" B="70" />

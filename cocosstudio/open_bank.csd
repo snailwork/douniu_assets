@@ -56,12 +56,12 @@
             <FileData Type="MarkedSubImage" Path="common/second-bg.png" Plist="common.plist" />
           </NodeObjectData>
           <NodeObjectData Name="Image_41_Copy" ActionTag="-1247196062" FrameEvent="" Tag="569" ObjectIndex="42" Scale9Width="217" Scale9Height="77" ctype="ImageViewObjectData">
-            <Position X="547.0000" Y="597.9999" />
+            <Position X="546.0000" Y="597.9999" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <CColor A="255" R="255" G="255" B="255" />
             <Size X="217.0000" Y="77.0000" />
-            <PrePosition X="0.4273" Y="0.8306" />
+            <PrePosition X="0.4266" Y="0.8306" />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="MarkedSubImage" Path="bank/title-bg.png" Plist="room.plist" />
           </NodeObjectData>

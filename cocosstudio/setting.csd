@@ -97,13 +97,13 @@
                 <PreSize X="0.0000" Y="0.0000" />
                 <LabelBMFontFile_CNB Type="Normal" Path="fonts/num-yellow.fnt" />
               </NodeObjectData>
-              <NodeObjectData Name="ListView_1" ActionTag="-1051060560" FrameEvent="" Tag="1112" ObjectIndex="1" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" IsBounceEnabled="True" ScrollDirectionType="0" DirectionType="Vertical" VerticalType="0" ctype="ListViewObjectData">
-                <Position X="640.0000" Y="299.0000" />
+              <NodeObjectData Name="ListView_1" ActionTag="-1051060560" FrameEvent="" Tag="1112" ObjectIndex="1" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" IsBounceEnabled="True" ScrollDirectionType="0" DirectionType="Vertical" VerticalType="0" ctype="ListViewObjectData">
+                <Position X="641.0000" Y="299.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <Size X="800.0000" Y="480.0000" />
-                <PrePosition X="0.5000" Y="0.4153" />
+                <PrePosition X="0.5008" Y="0.4153" />
                 <PreSize X="0.6250" Y="0.6667" />
                 <Children>
                   <NodeObjectData Name="count_text" ActionTag="1250304781" FrameEvent="" Tag="1368" ObjectIndex="99" FontSize="28" LabelText="帐户" IsCustomSize="True" VerticalAlignmentType="VT_Center" ctype="TextObjectData">
@@ -143,12 +143,12 @@
                         <PreSize X="0.3046" Y="1.2794" />
                         <Children>
                           <NodeObjectData Name="BitmapFontLabel_6" ActionTag="-351272063" FrameEvent="" Tag="221" ObjectIndex="6" LabelText="切换帐号" ctype="TextBMFontObjectData">
-                            <Position X="124.4263" Y="45.2496" />
-                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <Position X="124.0000" Y="40.0000" />
+                            <Scale ScaleX="1.2000" ScaleY="1.2000" />
                             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                             <CColor A="255" R="255" G="255" B="255" />
                             <Size X="1.0000" Y="43.0000" />
-                            <PrePosition X="0.5184" Y="0.5201" />
+                            <PrePosition X="0.5167" Y="0.4598" />
                             <PreSize X="0.0000" Y="0.0000" />
                             <LabelBMFontFile_CNB Type="Normal" Path="fonts/wuse.fnt" />
                           </NodeObjectData>
@@ -217,11 +217,11 @@
                         <Size X="154.0000" Y="58.0000" />
                         <PrePosition X="0.9431" Y="0.8403" />
                         <PreSize X="0.0000" Y="0.0000" />
-                        <NormalBackFileData Type="Normal" Path="seting/close.png" />
-                        <PressedBackFileData Type="Normal" Path="seting/close.png" />
-                        <DisableBackFileData Type="Normal" Path="seting/close.png" />
-                        <NodeNormalFileData Type="Normal" Path="seting/open.png" />
-                        <NodeDisableFileData Type="Normal" Path="seting/open.png" />
+                        <NormalBackFileData Type="MarkedSubImage" Path="seting/close.png" Plist="room.plist" />
+                        <PressedBackFileData Type="MarkedSubImage" Path="seting/close.png" Plist="room.plist" />
+                        <DisableBackFileData Type="MarkedSubImage" Path="seting/close.png" Plist="room.plist" />
+                        <NodeNormalFileData Type="MarkedSubImage" Path="seting/open.png" Plist="room.plist" />
+                        <NodeDisableFileData Type="MarkedSubImage" Path="seting/open.png" Plist="room.plist" />
                       </NodeObjectData>
                       <NodeObjectData Name="CheckBox_sound" ActionTag="51858651" FrameEvent="" Tag="3" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
                         <Position X="696.0000" Y="107.5833" />
@@ -231,11 +231,11 @@
                         <Size X="154.0000" Y="58.0000" />
                         <PrePosition X="0.9431" Y="0.4981" />
                         <PreSize X="0.0000" Y="0.0000" />
-                        <NormalBackFileData Type="Normal" Path="seting/close.png" />
-                        <PressedBackFileData Type="Normal" Path="seting/close.png" />
-                        <DisableBackFileData Type="Normal" Path="seting/close.png" />
-                        <NodeNormalFileData Type="Normal" Path="seting/open.png" />
-                        <NodeDisableFileData Type="Normal" Path="seting/open.png" />
+                        <NormalBackFileData Type="MarkedSubImage" Path="seting/close.png" Plist="room.plist" />
+                        <PressedBackFileData Type="MarkedSubImage" Path="seting/close.png" Plist="room.plist" />
+                        <DisableBackFileData Type="MarkedSubImage" Path="seting/close.png" Plist="room.plist" />
+                        <NodeNormalFileData Type="MarkedSubImage" Path="seting/open.png" Plist="room.plist" />
+                        <NodeDisableFileData Type="MarkedSubImage" Path="seting/open.png" Plist="room.plist" />
                       </NodeObjectData>
                       <NodeObjectData Name="Label_sound" ActionTag="407" FrameEvent="" Tag="337" FontSize="28" LabelText="音效：" ctype="TextObjectData">
                         <Position X="62.0000" Y="107.5833" />
@@ -272,11 +272,11 @@
                         <Size X="154.0000" Y="58.0000" />
                         <PrePosition X="0.9431" Y="0.1574" />
                         <PreSize X="0.0000" Y="0.0000" />
-                        <NormalBackFileData Type="Normal" Path="seting/close.png" />
-                        <PressedBackFileData Type="Normal" Path="seting/close.png" />
-                        <DisableBackFileData Type="Normal" Path="seting/close.png" />
-                        <NodeNormalFileData Type="Normal" Path="seting/open.png" />
-                        <NodeDisableFileData Type="Normal" Path="seting/open.png" />
+                        <NormalBackFileData Type="MarkedSubImage" Path="seting/close.png" Plist="room.plist" />
+                        <PressedBackFileData Type="MarkedSubImage" Path="seting/close.png" Plist="room.plist" />
+                        <DisableBackFileData Type="MarkedSubImage" Path="seting/close.png" Plist="room.plist" />
+                        <NodeNormalFileData Type="MarkedSubImage" Path="seting/open.png" Plist="room.plist" />
+                        <NodeDisableFileData Type="MarkedSubImage" Path="seting/open.png" Plist="room.plist" />
                       </NodeObjectData>
                     </Children>
                     <SingleColor A="255" R="150" G="200" B="255" />
@@ -284,7 +284,7 @@
                     <EndColor A="255" R="255" G="255" B="255" />
                     <ColorVector ScaleY="1.0000" />
                   </NodeObjectData>
-                  <NodeObjectData Name="count_text_Copy" ActionTag="-1104611556" ZOrder="4" FrameEvent="" Tag="1371" ObjectIndex="100" FontSize="28" LabelText="其它：" IsCustomSize="True" VerticalAlignmentType="VT_Center" ctype="TextObjectData">
+                  <NodeObjectData Name="count_text_Copy" ActionTag="-1104611556" ZOrder="4" FrameEvent="" Tag="1371" ObjectIndex="100" FontSize="28" LabelText="其它" IsCustomSize="True" VerticalAlignmentType="VT_Center" ctype="TextObjectData">
                     <Position X="36.0000" Y="320.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -312,12 +312,12 @@
                         <PreSize X="0.0000" Y="0.0000" />
                         <Children>
                           <NodeObjectData Name="Label_sound_Copy_Copy" ActionTag="852408290" FrameEvent="" Tag="1398" ObjectIndex="108" FontSize="28" LabelText="评论：" ctype="TextObjectData">
-                            <Position X="59.0000" Y="33.5000" />
+                            <Position X="65.0000" Y="33.5000" />
                             <Scale ScaleX="1.0000" ScaleY="1.0000" />
                             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                             <CColor A="255" R="255" G="255" B="255" />
                             <Size X="84.0000" Y="32.0000" />
-                            <PrePosition X="0.0749" Y="0.4926" />
+                            <PrePosition X="0.0825" Y="0.4926" />
                             <PreSize X="0.0000" Y="0.0000" />
                           </NodeObjectData>
                         </Children>
@@ -397,7 +397,7 @@
                             <Size X="28.0000" Y="28.0000" />
                             <PrePosition X="0.7433" Y="0.8627" />
                             <PreSize X="0.0000" Y="0.0000" />
-                            <FileData Type="Normal" Path="hall/point.png" />
+                            <FileData Type="MarkedSubImage" Path="hall/point.png" Plist="room.plist" />
                           </NodeObjectData>
                           <NodeObjectData Name="Image_114_Copy" ActionTag="-1615960404" FrameEvent="" Tag="1385" ObjectIndex="118" Scale9Width="23" Scale9Height="40" ctype="ImageViewObjectData">
                             <Position X="264.0000" Y="25.0000" />
@@ -407,7 +407,7 @@
                             <Size X="23.0000" Y="40.0000" />
                             <PrePosition X="0.8800" Y="0.4902" />
                             <PreSize X="0.0000" Y="0.0000" />
-                            <FileData Type="Normal" Path="seting/arrow.png" />
+                            <FileData Type="MarkedSubImage" Path="seting/arrow.png" Plist="room.plist" />
                           </NodeObjectData>
                         </Children>
                         <TextColor A="255" R="255" G="255" B="240" />
@@ -432,7 +432,7 @@
                             <Size X="23.0000" Y="40.0000" />
                             <PrePosition X="0.8800" Y="0.4902" />
                             <PreSize X="0.0000" Y="0.0000" />
-                            <FileData Type="Normal" Path="seting/arrow.png" />
+                            <FileData Type="MarkedSubImage" Path="seting/arrow.png" Plist="room.plist" />
                           </NodeObjectData>
                         </Children>
                         <TextColor A="255" R="255" G="255" B="240" />
@@ -457,7 +457,7 @@
                             <Size X="23.0000" Y="40.0000" />
                             <PrePosition X="0.8800" Y="0.4902" />
                             <PreSize X="0.0000" Y="0.0000" />
-                            <FileData Type="Normal" Path="seting/arrow.png" />
+                            <FileData Type="MarkedSubImage" Path="seting/arrow.png" Plist="room.plist" />
                           </NodeObjectData>
                         </Children>
                         <TextColor A="255" R="255" G="255" B="240" />
@@ -475,12 +475,12 @@
                         <PreSize X="0.0000" Y="0.0000" />
                       </NodeObjectData>
                       <NodeObjectData Name="Button_1_Copy_0_Copy_Copy_Copy_2" ActionTag="-1611598333" ZOrder="6" FrameEvent="" Tag="5" ObjectIndex="70" TouchEnable="True" FontSize="28" ButtonText="" Scale9Enable="True" Scale9Width="152" Scale9Height="51" ctype="ButtonObjectData">
-                        <Position X="623.0000" Y="254.0000" />
+                        <Position X="623.0000" Y="255.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <CColor A="255" R="255" G="255" B="255" />
                         <Size X="300.0000" Y="51.0000" />
-                        <PrePosition X="0.8442" Y="0.8912" />
+                        <PrePosition X="0.8442" Y="0.8947" />
                         <PreSize X="0.4065" Y="0.1409" />
                         <Children>
                           <NodeObjectData Name="Image_114_Copy_Copy" ActionTag="-1360415408" FrameEvent="" Tag="1409" ObjectIndex="126" Scale9Width="23" Scale9Height="40" ctype="ImageViewObjectData">
@@ -491,7 +491,7 @@
                             <Size X="23.0000" Y="40.0000" />
                             <PrePosition X="0.8800" Y="0.4902" />
                             <PreSize X="0.0000" Y="0.0000" />
-                            <FileData Type="Normal" Path="seting/arrow.png" />
+                            <FileData Type="MarkedSubImage" Path="seting/arrow.png" Plist="room.plist" />
                           </NodeObjectData>
                         </Children>
                         <TextColor A="255" R="255" G="255" B="240" />

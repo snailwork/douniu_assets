@@ -1,5 +1,5 @@
 <GameProjectFile>
-  <PropertyGroup Type="Layer" Name="email" ID="1c5b5aad-64ca-4137-936f-693eb81016c2" Version="2.0.6.0" />
+  <PropertyGroup Type="Layer" Name="emial" ID="1c5b5aad-64ca-4137-936f-693eb81016c2" Version="2.0.6.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -64,16 +64,6 @@
                 <PreSize X="0.7344" Y="0.4167" />
                 <FileData Type="MarkedSubImage" Path="common/light.png" Plist="common.plist" />
               </NodeObjectData>
-              <NodeObjectData Name="Image_41_Copy_0" ActionTag="-1981577497" FrameEvent="" Tag="570" ObjectIndex="43" FlipX="True" Scale9Width="84" Scale9Height="95" ctype="ImageViewObjectData">
-                <Position X="581.9999" Y="635.0000" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <Size X="84.0000" Y="95.0000" />
-                <PrePosition X="0.4547" Y="0.8819" />
-                <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="MarkedSubImage" Path="bank/title.png" Plist="room.plist" />
-              </NodeObjectData>
               <NodeObjectData Name="second" ActionTag="-1154080096" FrameEvent="" Tag="350" ObjectIndex="55" Scale9Enable="True" LeftEage="85" RightEage="84" Scale9OriginX="85" Scale9Width="1" Scale9Height="499" ctype="ImageViewObjectData">
                 <Position X="644.9999" Y="278.9999" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -85,12 +75,12 @@
                 <FileData Type="MarkedSubImage" Path="common/second-bg.png" Plist="common.plist" />
               </NodeObjectData>
               <NodeObjectData Name="BitmapFontLabel_1" ActionTag="654173394" FrameEvent="" Tag="349" ObjectIndex="1" LabelText="邮箱" ctype="TextBMFontObjectData">
-                <Position X="566.5000" Y="635.0000" />
+                <Position X="536.5000" Y="635.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleX="-0.5000" ScaleY="0.5091" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <Size X="110.0000" Y="43.0000" />
-                <PrePosition X="0.4426" Y="0.8819" />
+                <PrePosition X="0.4191" Y="0.8819" />
                 <PreSize X="0.0000" Y="0.0000" />
                 <LabelBMFontFile_CNB Type="Normal" Path="fonts/num-yellow.fnt" />
               </NodeObjectData>
@@ -117,7 +107,7 @@
                 <PressedFileData Type="MarkedSubImage" Path="common/close.png" Plist="common.plist" />
                 <NormalFileData Type="MarkedSubImage" Path="common/close.png" Plist="common.plist" />
               </NodeObjectData>
-              <NodeObjectData Name="Button_in_chip" ActionTag="45363399" FrameEvent="" Tag="105" TouchEnable="True" FontSize="30" ButtonText="好友邮件" Scale9Enable="True" LeftEage="30" RightEage="15" Scale9OriginX="30" Scale9Width="107" Scale9Height="51" ctype="ButtonObjectData">
+              <NodeObjectData Name="Button_in_chip" ActionTag="45363399" FrameEvent="" Tag="105" TouchEnable="True" FontSize="30" ButtonText="好友邮件" Scale9Enable="True" LeftEage="30" RightEage="15" Scale9OriginX="30" Scale9Width="107" Scale9Height="51" DisplayState="False" ctype="ButtonObjectData">
                 <Position X="726.0000" Y="549.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -130,7 +120,7 @@
                 <PressedFileData Type="MarkedSubImage" Path="bank/tab-1.png" Plist="room.plist" />
                 <NormalFileData Type="MarkedSubImage" Path="menu/transparent.png" Plist="room.plist" />
               </NodeObjectData>
-              <NodeObjectData Name="Button_new_password" ActionTag="26738069" FrameEvent="" Tag="101" TouchEnable="True" FlipX="True" FontSize="30" ButtonText="" Scale9Enable="True" Scale9Width="152" Scale9Height="51" DisplayState="False" ctype="ButtonObjectData">
+              <NodeObjectData Name="Button_new_password" ActionTag="26738069" FrameEvent="" Tag="101" TouchEnable="True" FlipX="True" FontSize="30" ButtonText="" Scale9Enable="True" Scale9Width="152" Scale9Height="51" ctype="ButtonObjectData">
                 <Position X="550.0000" Y="549.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -153,22 +143,22 @@
                 <PreSize X="0.0000" Y="0.0000" />
               </NodeObjectData>
               <NodeObjectData Name="Panel_mode" ActionTag="1351870997" FrameEvent="" Tag="211" ObjectIndex="21" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Enable="True" Scale9Width="10" Scale9Height="96" ctype="PanelObjectData">
-                <Position X="203.0000" Y="172.0000" />
+                <Position X="-94.0000" Y="11.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint />
                 <CColor A="255" R="255" G="255" B="255" />
                 <Size X="900.0000" Y="90.0000" />
-                <PrePosition X="0.1586" Y="0.2389" />
-                <PreSize X="1.3081" Y="0.2250" />
+                <PrePosition X="-0.0734" Y="0.0153" />
+                <PreSize X="0.7031" Y="0.1250" />
                 <Children>
-                  <NodeObjectData Name="Image_66" ActionTag="-1113078111" FrameEvent="" Tag="348" ObjectIndex="66" Scale9Width="65" Scale9Height="55" ctype="ImageViewObjectData">
+                  <NodeObjectData Name="Image_66" ActionTag="-1113078111" FrameEvent="" Tag="348" ObjectIndex="66" Scale9Width="65" Scale9Height="54" ctype="ImageViewObjectData">
                     <Position X="65.9999" Y="44.9999" />
                     <Scale ScaleX="0.7000" ScaleY="0.7000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <Size X="65.0000" Y="55.0000" />
-                    <PrePosition X="0.0733" Y="0.5000" />
-                    <PreSize X="0.0000" Y="0.0000" />
+                    <Size X="65.0000" Y="54.0000" />
+                    <PrePosition X="0.0733" Y="0.3020" />
+                    <PreSize X="0.0722" Y="0.3624" />
                     <FileData Type="MarkedSubImage" Path="top/email.png" Plist="room.plist" />
                   </NodeObjectData>
                   <NodeObjectData Name="Image_18" ActionTag="-242152987" FrameEvent="" Tag="482" ObjectIndex="18" Scale9Enable="True" Scale9Width="596" Scale9Height="1" ctype="ImageViewObjectData">
@@ -187,45 +177,32 @@
                     <AnchorPoint ScaleY="0.5000" />
                     <CColor A="255" R="99" G="43" B="16" />
                     <Size X="437.0000" Y="32.0000" />
-                    <PrePosition X="0.1161" Y="0.3111" />
-                    <PreSize X="0.8976" Y="1.0000" />
+                    <PrePosition X="0.1161" Y="0.1879" />
+                    <PreSize X="0.4856" Y="0.2148" />
                   </NodeObjectData>
                   <NodeObjectData Name="time" ActionTag="-180058605" FrameEvent="" Tag="481" ObjectIndex="56" FontSize="22" LabelText="12年3月 12点3" VerticalAlignmentType="VT_Center" ctype="TextObjectData">
                     <Position X="104.5031" Y="62.4280" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <AnchorPoint ScaleY="0.5000" />
-                    <CColor A="255" R="99" G="43" B="16" />
+                    <CColor A="255" R="212" G="98" B="2" />
                     <Size X="145.0000" Y="26.0000" />
-                    <PrePosition X="0.1161" Y="0.6936" />
-                    <PreSize X="0.0000" Y="0.0000" />
+                    <PrePosition X="0.1161" Y="0.4190" />
+                    <PreSize X="0.1611" Y="0.1745" />
                   </NodeObjectData>
-                  <NodeObjectData Name="Button_8" ActionTag="-1372295252" FrameEvent="" Tag="349" ObjectIndex="8" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" LeftEage="60" RightEage="50" Scale9OriginX="60" Scale9Width="3" Scale9Height="87" ctype="ButtonObjectData">
+                  <NodeObjectData Name="Button_8" ActionTag="-1372295252" VisibleForFrame="False" FrameEvent="" Tag="349" ObjectIndex="8" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" LeftEage="60" RightEage="50" Scale9OriginX="60" Scale9Width="3" Scale9Height="87" ctype="ButtonObjectData">
                     <Position X="784.0000" Y="46.5000" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <Scale ScaleX="0.8000" ScaleY="0.8000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <Size X="163.0000" Y="63.0000" />
-                    <PrePosition X="0.8711" Y="0.5167" />
-                    <PreSize X="0.1811" Y="0.7000" />
-                    <Children>
-                      <NodeObjectData Name="BitmapFontLabel_2" ActionTag="-1355519395" FrameEvent="" Tag="350" ObjectIndex="2" LabelText="领取" ctype="TextBMFontObjectData">
-                        <Position X="80.0000" Y="32.0000" />
-                        <Scale ScaleX="0.9000" ScaleY="0.9000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <Size X="84.0000" Y="43.0000" />
-                        <PrePosition X="0.4908" Y="0.5079" />
-                        <PreSize X="0.0000" Y="0.0000" />
-                        <LabelBMFontFile_CNB Type="Normal" Path="fonts/wuse.fnt" />
-                      </NodeObjectData>
-                    </Children>
+                    <Size X="163.0000" Y="80.0000" />
+                    <PrePosition X="0.8711" Y="0.3121" />
+                    <PreSize X="0.1811" Y="0.8889" />
                     <TextColor A="255" R="65" G="65" B="70" />
                     <DisabledFileData Type="MarkedSubImage" Path="room/btn-green.png" Plist="room.plist" />
                     <PressedFileData Type="MarkedSubImage" Path="room/btn-green.png" Plist="room.plist" />
                     <NormalFileData Type="MarkedSubImage" Path="room/btn-green.png" Plist="room.plist" />
                   </NodeObjectData>
                 </Children>
-                <FileData Type="MarkedSubImage" Path="top/bg.png" Plist="room.plist" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />

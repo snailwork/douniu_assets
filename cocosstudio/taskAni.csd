@@ -20,8 +20,8 @@
         </Timeline>
         <Timeline ActionTag="-889454258" FrameType="PositionFrame">
           <PointFrame FrameIndex="0" X="0.0000" Y="0.0000" />
-          <PointFrame FrameIndex="25" X="0.0000" Y="0.0000" />
-          <PointFrame FrameIndex="50" X="0.0000" Y="5.0000" />
+          <PointFrame FrameIndex="25" X="0.0000" Y="5.0000" />
+          <PointFrame FrameIndex="50" X="0.0000" Y="0.0000" />
         </Timeline>
         <Timeline ActionTag="-889454258" FrameType="ScaleFrame">
           <PointFrame FrameIndex="0" X="1.0000" Y="1.0000" />
@@ -55,7 +55,7 @@
         <PreSize X="0.0000" Y="0.0000" />
         <Children>
           <NodeObjectData Name="task" ActionTag="-1644773128" FrameEvent="" Tag="30" ObjectIndex="1" Scale9Width="62" Scale9Height="71" ctype="ImageViewObjectData">
-            <Position X="0.0000" Y="0.0000" />
+            <Position X="0.0000" Y="4.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <CColor A="255" R="255" G="255" B="255" />
@@ -64,12 +64,12 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="MarkedSubImage" Path="menu/btn-task.png" Plist="room.plist" />
           </NodeObjectData>
-          <NodeObjectData Name="Image_2" ActionTag="-889454258" Alpha="0" FrameEvent="" Tag="31" ObjectIndex="2" Scale9Enable="True" Scale9Width="80" Scale9Height="91" ctype="ImageViewObjectData">
-            <Position X="0.0000" Y="0.0000" />
+          <NodeObjectData Name="Image_2" ActionTag="-889454258" Alpha="204" FrameEvent="" Tag="31" ObjectIndex="2" Scale9Enable="True" Scale9Width="80" Scale9Height="91" ctype="ImageViewObjectData">
+            <Position X="0.0000" Y="4.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <Size X="78.0000" Y="87.0000" />
+            <Size X="66.0000" Y="75.0000" />
             <PrePosition X="0.0000" Y="0.0000" />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="MarkedSubImage" Path="task/title.png" Plist="room.plist" />

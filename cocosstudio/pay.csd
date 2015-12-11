@@ -31,30 +31,30 @@
             <PrePosition X="-0.0008" Y="1.0000" />
             <PreSize X="1.0016" Y="0.1250" />
             <Children>
-              <NodeObjectData Name="btn-back" ActionTag="939895653" FrameEvent="" Tag="329" ObjectIndex="1" TouchEnable="True" FontSize="14" ButtonText="" LeftEage="1" RightEage="1" TopEage="1" BottomEage="1" Scale9OriginX="1" Scale9OriginY="1" Scale9Width="150" Scale9Height="49" ctype="ButtonObjectData">
-                <Position X="98.0000" Y="49.0000" />
+              <NodeObjectData Name="btn-back" ActionTag="939895653" FrameEvent="" Tag="329" ObjectIndex="1" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" LeftEage="1" RightEage="1" TopEage="1" BottomEage="1" Scale9OriginX="1" Scale9OriginY="1" Scale9Width="2" Scale9Height="1" ctype="ButtonObjectData">
+                <Position X="75.0000" Y="46.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <Size X="152.0000" Y="51.0000" />
-                <PrePosition X="0.0766" Y="0.5444" />
-                <PreSize X="0.1563" Y="1.1111" />
+                <Size X="152.0000" Y="90.0000" />
+                <PrePosition X="0.0585" Y="0.5111" />
+                <PreSize X="0.1186" Y="1.0000" />
                 <Children>
                   <NodeObjectData Name="Image_29" ActionTag="-576178392" FrameEvent="" Tag="566" ObjectIndex="29" Scale9Width="28" Scale9Height="42" ctype="ImageViewObjectData">
-                    <Position X="33.0000" Y="23.0000" />
+                    <Position X="53.0000" Y="43.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <Size X="28.0000" Y="42.0000" />
-                    <PrePosition X="0.2171" Y="0.4510" />
+                    <PrePosition X="0.3487" Y="0.4778" />
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="MarkedSubImage" Path="pay/btn-back.png" Plist="room.plist" />
                   </NodeObjectData>
                 </Children>
                 <TextColor A="255" R="65" G="65" B="70" />
-                <DisabledFileData Type="MarkedSubImage" Path="menu/transparent.png" Plist="room.plist" />
-                <PressedFileData Type="MarkedSubImage" Path="menu/transparent.png" Plist="room.plist" />
-                <NormalFileData Type="MarkedSubImage" Path="menu/transparent.png" Plist="room.plist" />
+                <DisabledFileData Type="MarkedSubImage" Path="pay/up-bg.png" Plist="room.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="pay/up-bg.png" Plist="room.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="pay/up-bg.png" Plist="room.plist" />
               </NodeObjectData>
               <NodeObjectData Name="btn-otherSelection" ActionTag="-1563572639" FrameEvent="" Tag="330" ObjectIndex="2" TouchEnable="True" FontSize="14" ButtonText="" Scale9Width="51" Scale9Height="35" ctype="ButtonObjectData">
                 <Position X="1214.0000" Y="45.0000" />

@@ -77,41 +77,139 @@
             <PrePosition X="0.5000" Y="0.4986" />
             <PreSize X="0.5469" Y="0.6583" />
             <Children>
-              <NodeObjectData Name="prop_item" ActionTag="1440428889" FrameEvent="" Tag="1123" ObjectIndex="4" TouchEnable="True" FontSize="14" ButtonText="" Scale9Width="100" Scale9Height="103" ctype="ButtonObjectData">
-                <Position X="50.0000" Y="48.5000" />
+              <NodeObjectData Name="cards" ActionTag="-772640305" FrameEvent="" Tag="590" ObjectIndex="6" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+                <Position X="66.0000" Y="9.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <AnchorPoint />
                 <CColor A="255" R="255" G="255" B="255" />
-                <Size X="100.0000" Y="103.0000" />
-                <PrePosition X="-0.1191" Y="0.1744" />
-                <PreSize X="0.0000" Y="0.0000" />
+                <Size X="600.0000" Y="100.0000" />
+                <PrePosition X="0.0943" Y="0.0190" />
+                <PreSize X="0.8571" Y="0.2110" />
                 <Children>
-                  <NodeObjectData Name="Image_3_Copy_0" ActionTag="-140980705" FrameEvent="" Tag="1" ObjectIndex="12" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
-                    <Position X="50.0000" Y="55.0000" />
+                  <NodeObjectData Name="Image_288" ActionTag="796265306" FrameEvent="" Tag="1" ObjectIndex="288" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+                    <Position X="155.0000" Y="47.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <Size X="46.0000" Y="46.0000" />
-                    <PrePosition X="0.5000" Y="0.5340" />
+                    <PrePosition X="0.2583" Y="0.4700" />
                     <PreSize X="0.0000" Y="0.0000" />
                     <FileData Type="Default" Path="Default/ImageFile.png" />
                   </NodeObjectData>
+                  <NodeObjectData Name="Image_288_Copy" ActionTag="1314367492" FrameEvent="" Tag="2" ObjectIndex="289" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+                    <Position X="227.0400" Y="47.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="46.0000" Y="46.0000" />
+                    <PrePosition X="0.3784" Y="0.4700" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <FileData Type="Default" Path="Default/ImageFile.png" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Image_288_Copy_0" ActionTag="-262529595" FrameEvent="" Tag="3" ObjectIndex="290" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+                    <Position X="371.1199" Y="47.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="46.0000" Y="46.0000" />
+                    <PrePosition X="0.6185" Y="0.4700" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <FileData Type="Default" Path="Default/ImageFile.png" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Image_288_Copy_1" ActionTag="1327256776" FrameEvent="" Tag="4" ObjectIndex="291" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+                    <Position X="443.1599" Y="47.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="46.0000" Y="46.0000" />
+                    <PrePosition X="0.7386" Y="0.4700" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <FileData Type="Default" Path="Default/ImageFile.png" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Image_288_Copy_3" ActionTag="-876817409" FrameEvent="" Tag="5" ObjectIndex="293" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+                    <Position X="299.0800" Y="47.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="46.0000" Y="46.0000" />
+                    <PrePosition X="0.4985" Y="0.4700" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <FileData Type="Default" Path="Default/ImageFile.png" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="Text_1_Copy_Copy_Copy_Copy_Copy_0" ActionTag="1729057487" FrameEvent="" Tag="597" ObjectIndex="146" FontSize="26" LabelText="最大牌型：" ctype="TextObjectData">
+                    <Position X="67.0000" Y="45.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="115" G="89" B="54" />
+                    <Size X="130.0000" Y="31.0000" />
+                    <PrePosition X="0.1117" Y="0.4500" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                  </NodeObjectData>
                 </Children>
-                <TextColor A="255" R="65" G="65" B="70" />
-                <DisabledFileData Type="MarkedSubImage" Path="userinfo/prop-item-bg.png" Plist="room.plist" />
-                <PressedFileData Type="MarkedSubImage" Path="userinfo/prop-item-bg.png" Plist="room.plist" />
-                <NormalFileData Type="MarkedSubImage" Path="userinfo/prop-item-bg.png" Plist="room.plist" />
+                <SingleColor A="255" R="150" G="200" B="255" />
+                <FirstColor A="255" R="150" G="200" B="255" />
+                <EndColor A="255" R="255" G="255" B="255" />
+                <ColorVector ScaleY="1.0000" />
               </NodeObjectData>
-              <NodeObjectData Name="ListView_2" ActionTag="1579767785" FrameEvent="" Tag="487" ObjectIndex="2" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" IsBounceEnabled="True" ScrollDirectionType="0" VerticalType="0" ctype="ListViewObjectData">
-                <Position X="21.5000" Y="-5.0000" />
+              <NodeObjectData Name="props" ActionTag="-318812466" FrameEvent="" Tag="598" ObjectIndex="7" TouchEnable="True" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+                <Position X="55.0000" Y="-17.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint />
                 <CColor A="255" R="255" G="255" B="255" />
-                <Size X="657.0000" Y="100.0000" />
-                <PrePosition X="0.0307" Y="-0.0105" />
-                <PreSize X="0.9050" Y="0.1718" />
-                <SingleColor A="255" R="150" G="150" B="255" />
-                <FirstColor A="255" R="150" G="150" B="255" />
+                <Size X="600.0000" Y="150.0000" />
+                <PrePosition X="0.0786" Y="-0.0359" />
+                <PreSize X="0.8571" Y="0.3165" />
+                <Children>
+                  <NodeObjectData Name="prop_item" ActionTag="1440428889" FrameEvent="" Tag="1123" ObjectIndex="4" TouchEnable="True" FontSize="14" ButtonText="" Scale9Width="100" Scale9Height="103" ctype="ButtonObjectData">
+                    <Position X="974.0000" Y="47.5000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="100.0000" Y="103.0000" />
+                    <PrePosition X="1.6233" Y="0.3167" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <Children>
+                      <NodeObjectData Name="Image_3_Copy_0" ActionTag="-140980705" FrameEvent="" Tag="1" ObjectIndex="12" Scale9Width="46" Scale9Height="46" ctype="ImageViewObjectData">
+                        <Position X="50.0000" Y="55.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <Size X="46.0000" Y="46.0000" />
+                        <PrePosition X="0.5000" Y="0.5340" />
+                        <PreSize X="0.0000" Y="0.0000" />
+                        <FileData Type="Default" Path="Default/ImageFile.png" />
+                      </NodeObjectData>
+                    </Children>
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="MarkedSubImage" Path="userinfo/prop-item-bg.png" Plist="room.plist" />
+                    <PressedFileData Type="MarkedSubImage" Path="userinfo/prop-item-bg.png" Plist="room.plist" />
+                    <NormalFileData Type="MarkedSubImage" Path="userinfo/prop-item-bg.png" Plist="room.plist" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="ListView_2" ActionTag="1579767785" FrameEvent="" Tag="487" ObjectIndex="2" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" IsBounceEnabled="True" ScrollDirectionType="0" VerticalType="0" ctype="ListViewObjectData">
+                    <Position X="-32.5000" Y="12.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="657.0000" Y="100.0000" />
+                    <PrePosition X="-0.0542" Y="0.0800" />
+                    <PreSize X="0.9050" Y="0.1718" />
+                    <SingleColor A="255" R="150" G="150" B="255" />
+                    <FirstColor A="255" R="150" G="150" B="255" />
+                    <EndColor A="255" R="255" G="255" B="255" />
+                    <ColorVector ScaleY="1.0000" />
+                  </NodeObjectData>
+                  <NodeObjectData Name="props_text" ActionTag="-227228286" FrameEvent="" Tag="494" ObjectIndex="127" FontSize="20" LabelText="使用道具将收取费用" ctype="TextObjectData">
+                    <Position X="222.0000" Y="139.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleY="0.5000" />
+                    <CColor A="255" R="150" G="87" B="194" />
+                    <Size X="180.0000" Y="23.0000" />
+                    <PrePosition X="0.3700" Y="0.9267" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                  </NodeObjectData>
+                </Children>
+                <SingleColor A="255" R="150" G="200" B="255" />
+                <FirstColor A="255" R="150" G="200" B="255" />
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </NodeObjectData>
@@ -189,21 +287,21 @@
                 <FileData Type="MarkedSubImage" Path="userinfo/girl.png" Plist="room.plist" />
               </NodeObjectData>
               <NodeObjectData Name="Text_1_Copy_Copy_Copy_2" ActionTag="-1926029994" FrameEvent="" Tag="5" ObjectIndex="7" FontSize="26" LabelText="￥909000" ctype="TextObjectData">
-                <Position X="200.0000" Y="214.0000" />
+                <Position X="190.0000" Y="214.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleY="0.5000" />
                 <CColor A="255" R="115" G="89" B="54" />
                 <Size X="112.0000" Y="31.0000" />
-                <PrePosition X="0.2857" Y="0.4515" />
+                <PrePosition X="0.2714" Y="0.4515" />
                 <PreSize X="0.0000" Y="0.0000" />
               </NodeObjectData>
               <NodeObjectData Name="Text_1_Copy_Copy_Copy_Copy" ActionTag="-211065600" FrameEvent="" Tag="422" ObjectIndex="8" FontSize="26" LabelText="玩牌局数：" ctype="TextObjectData">
-                <Position X="142.0000" Y="162.0000" />
+                <Position X="133.0000" Y="162.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <CColor A="255" R="115" G="89" B="54" />
                 <Size X="130.0000" Y="31.0000" />
-                <PrePosition X="0.2029" Y="0.3418" />
+                <PrePosition X="0.1900" Y="0.3418" />
                 <PreSize X="0.0000" Y="0.0000" />
               </NodeObjectData>
               <NodeObjectData Name="Text_1_Copy_Copy_Copy_Copy_Copy" ActionTag="1939932453" FrameEvent="" Tag="423" ObjectIndex="9" FontSize="26" LabelText="存款 ：" ctype="TextObjectData">
@@ -330,12 +428,12 @@
                 <PreSize X="0.0000" Y="0.0000" />
               </NodeObjectData>
               <NodeObjectData Name="Text_1_Copy_Copy_Copy_2_Copy" ActionTag="768716052" FrameEvent="" Tag="6" ObjectIndex="11" FontSize="26" LabelText="￥909000" ctype="TextObjectData">
-                <Position X="200.0000" Y="162.0000" />
+                <Position X="190.0000" Y="162.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleY="0.5000" />
                 <CColor A="255" R="115" G="89" B="54" />
                 <Size X="112.0000" Y="31.0000" />
-                <PrePosition X="0.2857" Y="0.3418" />
+                <PrePosition X="0.2714" Y="0.3418" />
                 <PreSize X="0.0000" Y="0.0000" />
               </NodeObjectData>
               <NodeObjectData Name="Text_1_Copy_Copy_Copy_Copy_Copy_0_Copy_0" ActionTag="752734069" FrameEvent="" Tag="437" ObjectIndex="18" FontSize="26" LabelText="赢牌局数：" ctype="TextObjectData">
@@ -357,12 +455,12 @@
                 <PreSize X="0.0000" Y="0.0000" />
               </NodeObjectData>
               <NodeObjectData Name="Text_1_Copy_Copy_Copy_2_Copy_0_Copy_1" ActionTag="-1334317149" FrameEvent="" Tag="491" ObjectIndex="125" FontSize="26" LabelText="胜率：" ctype="TextObjectData">
-                <Position X="116.0000" Y="214.0000" />
+                <Position X="107.0000" Y="214.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <CColor A="255" R="115" G="89" B="54" />
                 <Size X="78.0000" Y="31.0000" />
-                <PrePosition X="0.1657" Y="0.4515" />
+                <PrePosition X="0.1529" Y="0.4515" />
                 <PreSize X="0.0000" Y="0.0000" />
               </NodeObjectData>
               <NodeObjectData Name="Text_1_Copy_Copy_Copy_0_Copy_Copy" ActionTag="-16715894" FrameEvent="" Tag="7" ObjectIndex="126" FontSize="26" LabelText="￥9809" ctype="TextObjectData">
@@ -383,15 +481,6 @@
                 <PrePosition X="0.5386" Y="0.4156" />
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="MarkedSubImage" Path="userinfo/line.png" Plist="room.plist" />
-              </NodeObjectData>
-              <NodeObjectData Name="Text_1_Copy_Copy_Copy_2_Copy_Copy" ActionTag="-227228286" FrameEvent="" Tag="494" ObjectIndex="127" FontSize="20" LabelText="使用道具将收取费用" ctype="TextObjectData">
-                <Position X="260.0000" Y="121.0000" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <AnchorPoint ScaleY="0.5000" />
-                <CColor A="255" R="150" G="87" B="194" />
-                <Size X="180.0000" Y="23.0000" />
-                <PrePosition X="0.3714" Y="0.2553" />
-                <PreSize X="0.0000" Y="0.0000" />
               </NodeObjectData>
               <NodeObjectData Name="Button_35_Copy" CanEdit="False" ActionTag="-1526734833" Rotation="90.0000" RotationSkewX="90.0000" RotationSkewY="90.0000" FrameEvent="" Tag="240" ObjectIndex="44" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="152" Scale9Height="51" ctype="ButtonObjectData">
                 <Position X="296.0000" Y="464.0000" />

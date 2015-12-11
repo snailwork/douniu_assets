@@ -54,7 +54,7 @@
                 <PreSize X="0.9538" Y="0.9293" />
                 <FileData Type="MarkedSubImage" Path="common/second-bg.png" Plist="common.plist" />
               </NodeObjectData>
-              <NodeObjectData Name="Label_content" ActionTag="42674915" FrameEvent="" Tag="101" FontSize="28" LabelText="必填必填必填必填必填必填必填必填必填必填必填必填必填必填必填必填必填必填必填" IsCustomSize="True" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ctype="TextObjectData">
+              <NodeObjectData Name="Label_content" ActionTag="42674915" FrameEvent="" Tag="101" FontSize="32" LabelText="必填必填必填必填必填必填必填必填必填必填必填必填必填必填必填必填必填必填必填" IsCustomSize="True" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ctype="TextObjectData">
                 <Position X="341.4065" Y="302.3501" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -63,7 +63,7 @@
                 <PrePosition X="0.4934" Y="0.6108" />
                 <PreSize X="0.0000" Y="0.0000" />
               </NodeObjectData>
-              <NodeObjectData Name="Button_canel" ActionTag="1362832518" FrameEvent="" Tag="2" ObjectIndex="1" TouchEnable="True" FontSize="30" ButtonText="取消" Scale9Enable="True" LeftEage="40" RightEage="40" TopEage="10" BottomEage="10" Scale9OriginX="40" Scale9OriginY="10" Scale9Width="33" Scale9Height="67" ctype="ButtonObjectData">
+              <NodeObjectData Name="Button_canel" ActionTag="1362832518" FrameEvent="" Tag="2" ObjectIndex="1" TouchEnable="True" FontSize="36" ButtonText="取消" Scale9Enable="True" LeftEage="40" RightEage="40" TopEage="10" BottomEage="10" Scale9OriginX="40" Scale9OriginY="10" Scale9Width="33" Scale9Height="67" ctype="ButtonObjectData">
                 <Position X="202.4066" Y="109.3495" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -76,7 +76,7 @@
                 <PressedFileData Type="MarkedSubImage" Path="room/btn-green.png" Plist="room.plist" />
                 <NormalFileData Type="MarkedSubImage" Path="room/btn-green.png" Plist="room.plist" />
               </NodeObjectData>
-              <NodeObjectData Name="Button_ok" ActionTag="934086492" FrameEvent="" Tag="1" ObjectIndex="2" TouchEnable="True" FontSize="30" ButtonText="取消" Scale9Enable="True" LeftEage="40" RightEage="40" TopEage="10" BottomEage="10" Scale9OriginX="40" Scale9OriginY="10" Scale9Width="33" Scale9Height="67" ctype="ButtonObjectData">
+              <NodeObjectData Name="Button_ok" ActionTag="934086492" FrameEvent="" Tag="1" ObjectIndex="2" TouchEnable="True" FontSize="36" ButtonText="取消" Scale9Enable="True" LeftEage="40" RightEage="40" TopEage="10" BottomEage="10" Scale9OriginX="40" Scale9OriginY="10" Scale9Width="33" Scale9Height="67" ctype="ButtonObjectData">
                 <Position X="462.4066" Y="109.3495" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />

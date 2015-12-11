@@ -224,15 +224,15 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <Size X="183.0000" Y="71.0000" />
                 <PrePosition X="0.6032" Y="0.8088" />
-                <PreSize X="0.1563" Y="0.0778" />
+                <PreSize X="0.1947" Y="0.1151" />
                 <Children>
                   <NodeObjectData Name="Text_35" ActionTag="-313996329" FrameEvent="" Tag="261" ObjectIndex="35" FontSize="30" LabelText="赢金榜" ctype="TextObjectData">
-                    <Position X="100.0000" Y="36.5000" />
+                    <Position X="90.0000" Y="36.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <Size X="90.0000" Y="34.0000" />
-                    <PrePosition X="0.5464" Y="0.5141" />
+                    <PrePosition X="0.4918" Y="0.5141" />
                     <PreSize X="0.0000" Y="0.0000" />
                   </NodeObjectData>
                 </Children>

@@ -27,6 +27,9 @@
           <Image Name="menu.png" />
           <Image Name="menu-btn-bg.png" />
           <Image Name="transparent.png" />
+          <Image Name="px.png" />
+          <Image Name="back-dis.png" />
+          <Image Name="change-dis.png" />
         </Folder>
         <Folder Name="seat">
           <Image Name="cardtype-bg.png" />
@@ -157,7 +160,6 @@
           <Image Name="edit-bg.png" />
           <Image Name="edit.png" />
         </Folder>
-        <Project Name="userinfo2.csd" />
         <Project Name="open_bank.csd" />
         <Folder Name="bank">
           <Image Name="input.png" />
@@ -223,6 +225,8 @@
           <Image Name="10.png" />
           <Image Name="11.png" />
           <Image Name="12.png" />
+          <Image Name="load-text.png" />
+          <Image Name="point.png" />
         </Folder>
         <Folder Name="hall">
           <Image Name="activity.png" />
@@ -236,14 +240,96 @@
           <Image Name="tab2.png" />
           <Image Name="tab3.png" />
           <Image Name="point.png" />
+          <Image Name="more-pic.png" />
+          <Image Name="activity-title.png" />
         </Folder>
         <Project Name="setting.csd" />
-        <Project Name="email.csd" />
+        <Project Name="activity.csd" />
         <Folder Name="seting">
           <Image Name="arrow.png" />
           <Image Name="close.png" />
           <Image Name="open.png" />
         </Folder>
+        <Project Name="loading.csd" />
+        <Image Name="loading.jpg" />
+        <Folder Name="chat">
+          <Image Name="bg.png" />
+          <Image Name="btn.png" />
+          <Image Name="fast-down.png" />
+          <Image Name="fast.png" />
+          <Image Name="face-bg.png" />
+          <Image Name="face-btn-bg.png" />
+          <Image Name="face-down.png" />
+          <Image Name="face.png" />
+          <Image Name="his-down.png" />
+          <Image Name="his.png" />
+          <Image Name="input.png" />
+          <Image Name="line.png" />
+          <Image Name="tab-btn-bg.png" />
+          <Image Name="tab1.png" />
+          <Image Name="tab.png" />
+        </Folder>
+        <Project Name="chat.csd" />
+        <Folder Name="face">
+          <Image Name="11.png" />
+          <Image Name="110.png" />
+          <Image Name="111.png" />
+          <Image Name="112.png" />
+          <Image Name="113.png" />
+          <Image Name="114.png" />
+          <Image Name="116.png" />
+          <Image Name="117.png" />
+          <Image Name="119.png" />
+          <Image Name="12.png" />
+          <Image Name="120.png" />
+          <Image Name="13.png" />
+          <Image Name="130.png" />
+          <Image Name="131.png" />
+          <Image Name="132.png" />
+          <Image Name="133.png" />
+          <Image Name="134.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="17.png" />
+          <Image Name="19.png" />
+        </Folder>
+        <Folder Name="interaction">
+          <Image Name="dog.png" />
+          <Image Name="egg.png" />
+          <Image Name="fenggou1.png" />
+          <Image Name="fenggou10.png" />
+          <Image Name="fenggou11.png" />
+          <Image Name="fenggou12.png" />
+          <Image Name="fenggou2.png" />
+          <Image Name="fenggou3.png" />
+          <Image Name="fenggou4.png" />
+          <Image Name="fenggou5.png" />
+          <Image Name="fenggou6.png" />
+          <Image Name="fenggou7.png" />
+          <Image Name="fenggou8.png" />
+          <Image Name="fenggou9.png" />
+          <Image Name="flower.png" />
+          <Image Name="friend.png" />
+          <Image Name="hua.png" />
+          <Image Name="hua2.png" />
+          <Image Name="info.png" />
+          <Image Name="jidan.png" />
+          <Image Name="jidan2.png" />
+          <Image Name="jidan3.png" />
+          <Image Name="jidan4.png" />
+          <Image Name="jidan5.png" />
+          <Image Name="jidan6.png" />
+          <Image Name="kiss.png" />
+          <Image Name="qinwu1.png" />
+          <Image Name="qinwu2.png" />
+          <Image Name="qinwu3.png" />
+          <Image Name="quan.png" />
+        </Folder>
+        <Project Name="about.csd" />
+        <Project Name="feedback.csd" />
+        <Project Name="room-.csd" />
+        <Project Name="more.csd" />
+        <Project Name="emial.csd" />
       </RootFolder>
     </Group>
   </SolutionFolder>
