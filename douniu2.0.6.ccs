@@ -16,6 +16,7 @@
           <Image Name="sys-msg-bg.png" />
           <Image Name="win-light.png" />
           <Image Name="win.png" />
+          <Image Name="bg1.png" />
         </Folder>
         <Folder Name="menu">
           <Image Name="back-hall.png" />
@@ -330,6 +331,86 @@
         <Project Name="room-.csd" />
         <Project Name="more.csd" />
         <Project Name="emial.csd" />
+        <Project Name="room100.csd" />
+        <Folder Name="room100">
+          <Image Name="action-bg.png" />
+          <Image Name="black.png" />
+          <Image Name="bllue.png" />
+          <Image Name="clock-bg.png" />
+          <Image Name="green.png" />
+          <Image Name="players.png" />
+          <Image Name="purple.png" />
+          <Image Name="red.png" />
+          <Image Name="yellow.png" />
+          <Image Name="item-bg.png" />
+          <Image Name="seat-bg.png" />
+          <Image Name="sit.png" />
+          <Folder Name="mj">
+            <Image Name="10b.png" />
+            <Image Name="1b.png" />
+            <Image Name="2b.png" />
+            <Image Name="3b.png" />
+            <Image Name="4b.png" />
+            <Image Name="5b.png" />
+            <Image Name="6b.png" />
+            <Image Name="7b.png" />
+            <Image Name="8b.png" />
+            <Image Name="9b.png" />
+            <Image Name="back.png" />
+            <Image Name="face.png" />
+          </Folder>
+          <Folder Name="text">
+            <Image Name="bpn.png" />
+            <Image Name="d.png" />
+            <Image Name="h2.png" />
+            <Image Name="lost.png" />
+            <Image Name="n6.png" />
+            <Image Name="n8.png" />
+            <Image Name="n9.png" />
+            <Image Name="nn.png" />
+            <Image Name="win.png" />
+            <Image Name="x.png" />
+            <Image Name="z.png" />
+            <Image Name="zd.png" />
+            <Image Name="t.png" />
+          </Folder>
+          <Image Name="line.png" />
+          <Image Name="mask.png" />
+          <Image Name="list-bg.png" />
+          <Image Name="updealer.png" />
+          <Image Name="head-mask.png" />
+        </Folder>
+        <Image Name="room100-bg.jpg" />
+        <Folder Name="buying">
+          <Image Name="b-chip.png" />
+          <Image Name="b-slider.png" />
+          <Image Name="bg.png" />
+          <Image Name="h-slider.png" />
+          <Image Name="orange.png" />
+          <Image Name="slider-bg.png" />
+          <Image Name="add.png" />
+          <Image Name="subtract.png" />
+        </Folder>
+        <Project Name="buying.csd" />
+        <Folder Name="turntable">
+          <Image Name="button.png" />
+          <Image Name="button_hightlight.png" />
+          <Image Name="go.png" />
+          <Image Name="light_in_1.png" />
+          <Image Name="light_in_2.png" />
+          <Image Name="light_out_1.png" />
+          <Image Name="light_out_1_an.png" />
+          <Image Name="light_out_2.png" />
+          <Image Name="light_out_2_an.png" />
+          <Image Name="turntable_bg.png" />
+          <Image Name="turn_hightlight.png" />
+          <Image Name="turn_point.png" />
+          <Image Name="zp2.png" />
+        </Folder>
+        <Project Name="turntable.csd" />
+        <Project Name="turntable_blue_animation.csd" />
+        <Project Name="turntable_orange_animation.csd" />
+        <Project Name="turntable_red_animation.csd" />
       </RootFolder>
     </Group>
   </SolutionFolder>

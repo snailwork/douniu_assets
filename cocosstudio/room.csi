@@ -180,6 +180,14 @@
       <FilePathData Path="menu/change-dis.png" />
       <FilePathData Path="hall/more-pic.png" />
       <FilePathData Path="hall/activity-title.png" />
+      <FilePathData Path="buying/b-chip.png" />
+      <FilePathData Path="buying/b-slider.png" />
+      <FilePathData Path="buying/bg.png" />
+      <FilePathData Path="buying/h-slider.png" />
+      <FilePathData Path="buying/orange.png" />
+      <FilePathData Path="buying/slider-bg.png" />
+      <FilePathData Path="buying/add.png" />
+      <FilePathData Path="buying/subtract.png" />
     </ImageFiles>
     <MaxSize Width="2048" Height="2048" />
   </Content>

@@ -1025,7 +1025,7 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="MarkedSubImage" Path="seat/dealer.png" Plist="room.plist" />
           </NodeObjectData>
-          <NodeObjectData Name="action_layer" CanEdit="False" ActionTag="2024380726" Visible="False" FrameEvent="" Tag="268" ObjectIndex="40" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+          <NodeObjectData Name="action_layer" ActionTag="2024380726" Visible="False" FrameEvent="" Tag="268" ObjectIndex="40" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
             <Position X="640.0000" Y="360.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -1294,7 +1294,7 @@
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </NodeObjectData>
-          <NodeObjectData Name="menu_layer" CanEdit="False" ActionTag="808440364" FrameEvent="" Tag="302" ObjectIndex="43" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+          <NodeObjectData Name="menu_layer" ActionTag="808440364" FrameEvent="" Tag="302" ObjectIndex="43" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
             <Position X="640.0000" Y="360.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -1427,12 +1427,12 @@
                 <NormalFileData Type="MarkedSubImage" Path="menu/btn-task.png" Plist="room.plist" />
               </NodeObjectData>
               <NodeObjectData Name="Text_200" ActionTag="1324243800" FrameEvent="" Tag="351" ObjectIndex="200" FontSize="20" LabelText="10:00" ctype="TextObjectData">
-                <Position X="1139.0000" Y="608.0000" />
+                <Position X="1139.0000" Y="613.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <CColor A="255" R="246" G="194" B="46" />
                 <Size X="50.0000" Y="23.0000" />
-                <PrePosition X="0.8898" Y="0.8444" />
+                <PrePosition X="0.8898" Y="0.8514" />
                 <PreSize X="0.0000" Y="0.0000" />
               </NodeObjectData>
               <NodeObjectData Name="menu" ActionTag="-1510090904" FrameEvent="" Tag="1" ObjectIndex="48" TouchEnable="True" FontSize="14" ButtonText="" LeftEage="40" RightEage="40" TopEage="10" BottomEage="10" Scale9OriginX="31" Scale9OriginY="10" Scale9Width="9" Scale9Height="56" ctype="ButtonObjectData">
@@ -1526,19 +1526,6 @@
             <PrePosition X="0.5000" Y="0.6389" />
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="MarkedSubImage" Path="card/back.png" Plist="common.plist" />
-          </NodeObjectData>
-          <NodeObjectData Name="Panel_chat" ActionTag="2042336045" FrameEvent="" Tag="239" ObjectIndex="82" TouchEnable="True" BackColorAlpha="105" ColorAngle="90.0000" ctype="PanelObjectData">
-            <Position X="640.0000" Y="485.0000" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <Size X="200.0000" Y="50.0000" />
-            <PrePosition X="0.5000" Y="0.6736" />
-            <PreSize X="0.1563" Y="0.0694" />
-            <SingleColor A="255" R="150" G="200" B="255" />
-            <FirstColor A="255" R="150" G="200" B="255" />
-            <EndColor A="255" R="255" G="255" B="255" />
-            <ColorVector ScaleY="1.0000" />
           </NodeObjectData>
         </Children>
       </ObjectData>

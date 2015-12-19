@@ -142,31 +142,6 @@
                 <PrePosition X="0.0427" Y="0.3050" />
                 <PreSize X="0.8547" Y="0.2294" />
               </NodeObjectData>
-              <NodeObjectData Name="Button_get" ActionTag="20032142" Visible="False" FrameEvent="" Tag="5" TouchEnable="True" FontSize="30" ButtonText="" Scale9Enable="True" LeftEage="60" RightEage="50" Scale9OriginX="60" Scale9Width="3" Scale9Height="87" ctype="ButtonObjectData">
-                <Position X="116.0000" Y="44.0000" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <Size X="167.0000" Y="60.0000" />
-                <PrePosition X="0.4957" Y="0.1009" />
-                <PreSize X="0.1909" Y="0.6122" />
-                <Children>
-                  <NodeObjectData Name="BitmapFontLabel_28" ActionTag="1487821806" FrameEvent="" Tag="244" ObjectIndex="28" LabelText="确定" ctype="TextBMFontObjectData">
-                    <Position X="84.0000" Y="33.0000" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <CColor A="255" R="255" G="255" B="255" />
-                    <Size X="80.0000" Y="43.0000" />
-                    <PrePosition X="0.5030" Y="0.5500" />
-                    <PreSize X="0.0000" Y="0.0000" />
-                    <LabelBMFontFile_CNB Type="Normal" Path="fonts/wuse.fnt" />
-                  </NodeObjectData>
-                </Children>
-                <TextColor A="255" R="255" G="255" B="255" />
-                <DisabledFileData Type="MarkedSubImage" Path="room/btn-green.png" Plist="room.plist" />
-                <PressedFileData Type="MarkedSubImage" Path="room/btn-green.png" Plist="room.plist" />
-                <NormalFileData Type="MarkedSubImage" Path="room/btn-green.png" Plist="room.plist" />
-              </NodeObjectData>
               <NodeObjectData Name="BitmapFontLabel_2" ActionTag="2137102388" FrameEvent="" Tag="4" ObjectIndex="2" LabelText="+200万" ctype="TextBMFontObjectData">
                 <Position X="113.5000" Y="209.5000" />
                 <Scale ScaleX="0.8000" ScaleY="0.8000" />
@@ -217,6 +192,31 @@
                 <Size X="33.0000" Y="28.0000" />
                 <PrePosition X="0.4744" Y="0.0688" />
                 <PreSize X="0.0000" Y="0.0000" />
+              </NodeObjectData>
+              <NodeObjectData Name="Button_get" ActionTag="20032142" FrameEvent="" Tag="5" TouchEnable="True" FontSize="30" ButtonText="" Scale9Enable="True" LeftEage="60" RightEage="50" Scale9OriginX="60" Scale9Width="3" Scale9Height="87" ctype="ButtonObjectData">
+                <Position X="116.0000" Y="44.0000" />
+                <Scale ScaleX="0.8000" ScaleY="0.8000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <Size X="200.0000" Y="80.0000" />
+                <PrePosition X="0.4957" Y="0.1009" />
+                <PreSize X="0.8197" Y="0.1835" />
+                <Children>
+                  <NodeObjectData Name="BitmapFontLabel_28" ActionTag="1487821806" FrameEvent="" Tag="244" ObjectIndex="28" LabelText="领取" ctype="TextBMFontObjectData">
+                    <Position X="99.0000" Y="42.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <Size X="84.0000" Y="43.0000" />
+                    <PrePosition X="0.4950" Y="0.5250" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <LabelBMFontFile_CNB Type="Normal" Path="fonts/wuse.fnt" />
+                  </NodeObjectData>
+                </Children>
+                <TextColor A="255" R="255" G="255" B="255" />
+                <DisabledFileData Type="MarkedSubImage" Path="room/btn-green.png" Plist="room.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="room/btn-green.png" Plist="room.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="room/btn-green.png" Plist="room.plist" />
               </NodeObjectData>
             </Children>
             <FileData Type="MarkedSubImage" Path="menu/transparent.png" Plist="room.plist" />
